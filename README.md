@@ -1,4 +1,4 @@
-Ethereum Multisignature Wallet
+XDC Multisignature Wallet
 ===================
 
 [![Join the chat at https://gitter.im/gnosis/MultiSigWallet](https://badges.gitter.im/gnosis/MultiSigWallet.svg)](https://gitter.im/gnosis/MultiSigWallet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -27,6 +27,7 @@ Being used by
 - [Golem](https://golem.network/)
 - [MysteriumNetwork](https://mysterium.network/)
 - [Weifund](http://weifund.io/)
+- [XinFIn's XDC Network] (http://XinFin.Network/)
 - StabL
 
 Install
