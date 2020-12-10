@@ -10,12 +10,13 @@ The purpose of multisig wallets is to increase security by requiring multiple pa
 Features
 -------------
 
+- Can hold XDC and all kind of tokens with multisig support
 - Can hold Ether and all kind of tokens with multisig support
 - Easy to use offline signing (cold wallet) support
-- Integration with web3 wallets (Metamask, Mist, Parity, etc)
+- Integration with web3 wallets (Metamask)
 - Transaction data and log decoding, makes transactions more readable
 - Interacting with any contracts with UI support
-- Hardware wallet support (Ledger Wallet)
+- Hardware wallet support (Ledger Wallet coming soon)
 - Optional email notifications when an event is triggered or you are required to sign a transaction
 
 Being used by
@@ -27,7 +28,7 @@ Being used by
 - [Golem](https://golem.network/)
 - [MysteriumNetwork](https://mysterium.network/)
 - [Weifund](http://weifund.io/)
-- [XinFIn's XDC Network] (http://XinFin.Network/)
+- [XinFIn's XDC Network](http://XinFin.Network/)
 - StabL
 
 Install
